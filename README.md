@@ -1,4 +1,4 @@
-# 🌍 EvidFlow — Africa’s First MEAL Process Automation SaaS
+# 🌍 EvidFlow — Africa’s Leading MEAL Process Automation SaaS
 
 > **Let evidence flow — faster, cleaner, and with purpose.**
 
