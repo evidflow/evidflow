@@ -67,8 +67,8 @@ We’re open to collaboration and partnerships with:
 - Tech-for-good organizations
 - Donors and research institutions
 
-📩 **Contact:** [hello@evidflow.org](mailto:info@evidflow.com)  
-🌐 **Website:** [https://evidflow.org](https://evidflow.com)
+📩 **Contact:** [info@evidflow.com](mailto:info@evidflow.com)  
+🌐 **Website:** [https://evidflow.com](https://evidflow.com)
 
 ---
 
